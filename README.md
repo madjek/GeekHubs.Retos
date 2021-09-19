@@ -1,2 +1,2 @@
 # GeekHubs.Retos
- Ejercicios de GeetHubs
+ Ejercicios de GeekHubs
