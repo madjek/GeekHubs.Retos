@@ -1,0 +1,88 @@
+body {
+    background-image: url(/Ejercicio4/img/ac.jpg);
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 200px
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+#inn {
+    margin: 20px;
+    width: 160px;
+    height: 160px;
+    background-image: url(/Ejercicio4/img/back_mantel.jpg);
+
+}
+
+#p1 {
+    background-image: url(/Ejercicio4/img/back_mantel.jpg);
+}
+
+#p2 {
+    background-image: url(/Ejercicio4/img/back_mantel.jpg);
+}
+
+#p3, #p4, #p6, #p7, #p8 {
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#p3 {
+    background-image: url(/Ejercicio4/img/back_mantel.jpg);
+    background-size: 100%;
+}
+
+#p4 {
+    background-image: url(/Ejercicio4/img/back_mantel.jpg);
+    background-color: whitesmoke;
+    background-size: 80%;
+}
+
+#p5 {
+    background-image: url(/Ejercicio4/img/dh.jpg);
+    background-size: cover;
+}
+
+#p6 {
+    background-image: url(/Ejercicio4/img/dh.jpg);
+    background-color: whitesmoke;
+    background-size: 80%;
+}
+
+#p7 {
+    background-image: url(/Ejercicio4/img/dh_2.jpg);
+    background-color: whitesmoke;
+    background-size: contain;
+}
+
+#p8 {
+    background-image: url(/Ejercicio4/img/dh_3.jpg);
+    background-color: whitesmoke;
+    background-size: contain;
+}
+
+#g1 {
+    background: linear-gradient(90deg, #d2fa54, #576d46);
+}
+
+#g2 {
+    background: linear-gradient(#edb4a5, #893410 80%, #edb4a5 95%);
+}
+
+#g3 {
+    background: linear-gradient(#e3e8c8, #407e3d);
+}
+
+#g4 {
+    background: linear-gradient(0deg, rgba(47, 112, 45, 0.9), rgba(47, 112, 45, 0.1));
+}

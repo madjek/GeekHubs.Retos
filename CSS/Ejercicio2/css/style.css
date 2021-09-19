@@ -1,0 +1,39 @@
+table,
+tr,
+td {
+    border: 4px solid grey;
+    border-collapse: collapse;
+}
+
+table {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+#C1 {
+    background-color: greenyellow;
+}
+
+#C2 {
+    background-color: lightskyblue;
+    text-align: left;
+}
+
+#C6 {
+    background-color: pink;
+    text-align: right;
+}
+
+.tred {
+    color: red;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+html {
+    font-weight: bolder;
+}

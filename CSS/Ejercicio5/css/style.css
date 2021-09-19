@@ -1,0 +1,37 @@
+body {
+    padding: auto;
+}
+
+#m1 {
+    width: 300px;
+    height: 150px;
+    border: 2px solid blue;
+    background: url(/Ejercicio5/img/f01.png) left bottom repeat-x,
+        url(/Ejercicio5/img/f02.png) center bottom no-repeat,
+        url(/Ejercicio5/img/f03.png) left top no-repeat;
+    background-size: 15%, 100%, 110%;
+    background-color: skyblue;
+}
+
+#m2 {
+    width: 600px;
+    height: 300px;
+    border: 6px solid darkred;
+    background: url(/Ejercicio5/img/f01.png) left bottom repeat-x,
+        url(/Ejercicio5/img/f02.png) left bottom no-repeat,
+        url(/Ejercicio5/img/f03.png) left top repeat-x;
+    background-size: 10%, 50%, 60%;
+    background-color: skyblue;
+    margin: 20px;
+}
+
+#m3 {
+    width: 300px;
+    height: 150px;
+    border: 2px solid blue;
+    background: url(/Ejercicio5/img/f01.png) left bottom repeat-x,
+        url(/Ejercicio5/img/f02.png) center bottom no-repeat,
+        url(/Ejercicio5/img/f03.png) left top no-repeat;
+    background-size: 15%, 100%, 110%;
+    background-color: skyblue;
+}
