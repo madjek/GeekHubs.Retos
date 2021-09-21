@@ -1,0 +1,86 @@
+img {
+    width: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+::placeholder {
+    padding: 0px 5px;
+    font-style: italic;
+}
+
+.navbar {
+    padding: 0px;
+}
+
+.container {
+    width: 100%;
+    min-width: 100%;
+    margin: 0px;
+    padding: 0px 12px;
+    font-size: 0.8em;
+}
+
+.row {
+    width: 100%;
+    margin: 0px;
+}
+
+.col-1 {
+    width: 7%;
+    padding: 0px;
+}
+
+.col-2 {
+    padding: 0px;
+}
+
+.col-4 {
+    margin: auto;
+}
+
+.container-fluid {
+    background-color: #2e86bd !important;
+
+    padding: 0px 12px 0px 0px;
+}
+
+.nav-link {
+    color: white !important;
+    border-left: 1px solid rgba(255, 255, 255, 0.075);
+    border-right: 1px solid rgba(255, 255, 255, 0.075);
+}
+
+.disabled {
+    border-right: none;
+}
+
+.nav-link:hover {
+    background-color: rgb(78, 169, 226);
+}
+
+.navbar-brand {
+    margin: 0px;
+    padding: 0px;
+}
+
+.form-control {
+    padding: 0px;
+}
+
+#icons {
+    width: 80%;
+    padding: 0px 10px;
+}
+
+#icons svg,
+#user svg {
+    fill: white;
+}
+
+#user {
+    background-color: rgb(78, 169, 226);
+}

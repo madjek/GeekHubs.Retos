@@ -1,0 +1,28 @@
+h1 {
+    color: #066bbd;
+}
+.container {
+    width: 60%;
+}
+
+#act {
+    padding: 0px;
+}
+#lcol {
+    width: 150px !important;
+}
+#bact1 {
+    padding: 0px;
+    background-color: blue;
+}
+#bact2 {
+    padding: 0px;
+    background-color: green;
+}
+#bact3 {
+    padding: 0px;
+    background-color: red;
+}
+.col svg {
+    fill: white;
+}

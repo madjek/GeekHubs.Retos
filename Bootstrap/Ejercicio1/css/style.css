@@ -1,0 +1,64 @@
+body {
+    color: grey;
+}
+
+#login-form {
+    width: 80%;
+    margin: auto;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+h5 {
+    font-size: 1em;
+}
+
+.container {
+    width: 40%;
+    padding: 40px 0;
+}
+
+.row {
+    margin: 10px;
+}
+
+.btn {
+    width: 98%;
+    margin: auto;
+    background-color: #4addc1;
+}
+
+.form-control {
+    width: 98%;
+    margin: auto;
+}
+
+#up,
+#mid {
+    width: 100%;
+    padding: 5px 10px;
+}
+
+#up {
+    background-color: rgb(245, 245, 245);
+
+}
+
+#mid {
+    background-color: rgb(230, 230, 230);
+}
+
+#down {
+    width: 80%;
+    margin: 20px auto;
+}
+
+#down svg {
+    fill: #4addc1;
+}
+
+#tx {
+    padding: 0 50px;
+}
