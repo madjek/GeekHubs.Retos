@@ -1,5 +1,5 @@
 body {
-    background-image: url(/Ejercicio4/img/ac.jpg);
+    background-image: url(/img/ac.jpg);
 }
 
 .gallery {
@@ -20,16 +20,16 @@ body {
     margin: 20px;
     width: 160px;
     height: 160px;
-    background-image: url(/Ejercicio4/img/back_mantel.jpg);
+    background-image: url(/img/back_mantel.jpg);
 
 }
 
 #p1 {
-    background-image: url(/Ejercicio4/img/back_mantel.jpg);
+    background-image: url(/img/back_mantel.jpg);
 }
 
 #p2 {
-    background-image: url(/Ejercicio4/img/back_mantel.jpg);
+    background-image: url(/img/back_mantel.jpg);
 }
 
 #p3, #p4, #p6, #p7, #p8 {
@@ -38,35 +38,35 @@ body {
 }
 
 #p3 {
-    background-image: url(/Ejercicio4/img/back_mantel.jpg);
+    background-image: url(/img/back_mantel.jpg);
     background-size: 100%;
 }
 
 #p4 {
-    background-image: url(/Ejercicio4/img/back_mantel.jpg);
+    background-image: url(/img/back_mantel.jpg);
     background-color: whitesmoke;
     background-size: 80%;
 }
 
 #p5 {
-    background-image: url(/Ejercicio4/img/dh.jpg);
+    background-image: url(/img/dh.jpg);
     background-size: cover;
 }
 
 #p6 {
-    background-image: url(/Ejercicio4/img/dh.jpg);
+    background-image: url(/img/dh.jpg);
     background-color: whitesmoke;
     background-size: 80%;
 }
 
 #p7 {
-    background-image: url(/Ejercicio4/img/dh_2.jpg);
+    background-image: url(/img/dh_2.jpg);
     background-color: whitesmoke;
     background-size: contain;
 }
 
 #p8 {
-    background-image: url(/Ejercicio4/img/dh_3.jpg);
+    background-image: url(/img/dh_3.jpg);
     background-color: whitesmoke;
     background-size: contain;
 }
