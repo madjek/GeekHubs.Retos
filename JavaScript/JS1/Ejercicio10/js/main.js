@@ -15,5 +15,4 @@ let numVentas = parseFloat(prompt("Introduzca numero de ventas"));
 for (let n = 1; n <= numVentas; n++) {
    suma = suma + parseFloat(prompt("Introduzca valor de venta " + n));
 }
-// Output
 alert("Suma de todas las ventas: " + suma)
