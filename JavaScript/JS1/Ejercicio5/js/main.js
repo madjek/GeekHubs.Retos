@@ -9,10 +9,8 @@ Version: 1.0
 // Ejercicio5
 
 // Input
-var num = prompt("Introduzca numero");
+let num = prompt("Introduzca numero");
 // Proceso y calculo
-
-// Output
 if (num % 2 == 0) {
     alert ('Divisible por 2')
 } else {

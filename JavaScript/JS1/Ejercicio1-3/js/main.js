@@ -9,11 +9,9 @@ Version: 1.0
 // Ejercicio1
 
 // Input
-var A = 22;
-var B = 35;
+let A = 22;
+let B = 35;
 // Proceso y calculo
-
-// Output
 if (A < B) {
     console.log('A menor de B');
 } else if (A > B) {
@@ -25,20 +23,13 @@ if (A < B) {
 // Ejercicio2
 
 // Input
-var name = 'Yevhenii';
-// Proceso y calculo
-
+let name = 'Yevhenii';
 // Output
 console.log("Bienvenido " + name);
-
 // ____________________________________________________
 // Ejercicio3
 
 // Input
-var name1 = prompt("Introduzca su nombre");
-// Proceso y calculo
-
+let name1 = prompt("Introduzca su nombre");
 // Output
 console.log("Bienvenido " + name1);
-
-// ____________________________________________________

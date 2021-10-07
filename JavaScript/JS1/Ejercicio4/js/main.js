@@ -10,7 +10,7 @@ Version: 1.0
 
 // Input
 const pi = 3.1416;
-var r = parseFloat(prompt("Introduzca radio"));
+let r = parseFloat(prompt("Introduzca radio"));
 // Proceso y calculo
 let S = pi * r**2
 // Output

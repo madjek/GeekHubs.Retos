@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.container {
+  text-align: center;
+  width: 20%;
+  padding: 5px;
+  background-color: #f1f1f1;
+}
+input {
+  width: 90%;
+}
+
+#enter {
+  margin: 10px 0 5px 0;
+  color: white;
+  background-color: #4CAF50;
+}
+  
+
