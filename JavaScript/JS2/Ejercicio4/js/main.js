@@ -9,7 +9,7 @@ Version: 1.0
 // Ejercicio4
 
 // Input
-var num = prompt('Introduzca el numero');
+let num = prompt("Introduzca el numero");
 // Proceso y calculo
 function factorial(num) {
     let result = 1;
