@@ -9,9 +9,9 @@ Version: 1.0
 // Ejercicio4
 
 // Input
-const pi = 3.1416;
+const PI = 3.1416;
 let r = parseFloat(prompt("Introduzca radio"));
 // Proceso y calculo
-let S = pi * r**2
+let S = PI * r**2
 // Output
-alert('Area de circulo = ' + S)
+alert("Area de circulo = " + S)

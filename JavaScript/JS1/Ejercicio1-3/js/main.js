@@ -9,21 +9,21 @@ Version: 1.0
 // Ejercicio1
 
 // Input
-let A = 22;
-let B = 35;
+let A = prompt("Introduzca numero A");
+let B = prompt("Introduzca numero B");
 // Proceso y calculo
 if (A < B) {
-    console.log('A menor de B');
+    console.log("A menor de B");
 } else if (A > B) {
-    console.log('A mayor de B');
+    console.log("A mayor de B");
 } else {
-    console.log('A = B');
+    console.log("A = B");
 }
 // ____________________________________________________
 // Ejercicio2
 
 // Input
-let name = 'Yevhenii';
+let name = "Yevhenii";
 // Output
 console.log("Bienvenido " + name);
 // ____________________________________________________

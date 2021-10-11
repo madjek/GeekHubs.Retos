@@ -29,7 +29,7 @@ switch (signo) {
       res = A / B;
       break;
    case "^":
-      res = Math.pow(A, B);;
+      res = A**B;
       break;
    case "%":
       if (A > B) {
