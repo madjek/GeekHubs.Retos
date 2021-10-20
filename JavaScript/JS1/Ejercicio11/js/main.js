@@ -11,7 +11,7 @@ Version: 1.0
 // Input
 let dia = (prompt("Introduzca el dia"));
 // Proceso y calculo
-switch (dia) {
+switch (dia.toLowerCase()) {
    case "lunes":
    case "martes":
    case "miercoles":
